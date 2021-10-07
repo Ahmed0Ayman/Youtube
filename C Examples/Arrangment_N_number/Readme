@@ -1,0 +1,23 @@
+Given N integer numbers, print them sorted in a special way
+Even numbers come first ascendingly
+Odd numbers come last descendingly
+
+
+
+Sample Input
+8
+18 5 24 9 12 6 2 3   
+
+
+
+Sample Output
+2
+6
+12
+18
+24
+9
+5
+3
+
+
